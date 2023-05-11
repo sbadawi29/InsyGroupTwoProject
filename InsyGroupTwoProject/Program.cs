@@ -1,4 +1,6 @@
-﻿namespace InsyGroupTwoProject
+﻿using InsyGroupTwoProject.Model;
+
+namespace InsyGroupTwoProject
 {
     internal class Program
     {
